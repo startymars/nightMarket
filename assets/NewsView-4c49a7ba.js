@@ -1,0 +1,1 @@
+import{_ as a,r as n,o as r,c,b as o,w as s,d as e,F as _,a as l}from"./index-b3651591.js";const d={},i=l("h1",null,"This is News page.",-1);function p(u,f,m,w,N,h){const t=n("router-link");return r(),c(_,null,[i,o(t,{to:"/"},{default:s(()=>[e("Home")]),_:1}),e(" | "),o(t,{to:"/News"},{default:s(()=>[e("News")]),_:1})],64)}const k=a(d,[["render",p]]);export{k as default};
