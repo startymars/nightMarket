@@ -1,0 +1,1 @@
+import{H as n,F as r}from"./FooterView-68079a45.js";import{_ as s,e,f as c,g as p,i as o,F as _}from"./index-2cca09c1.js";const m={components:{HeaderNav:n,FooterView:r}};function i(d,f,l,F,u,w){const t=e("HeaderNav"),a=e("FooterView");return c(),p(_,null,[o(t),o(a)],64)}const v=s(m,[["render",i]]);export{v as default};
